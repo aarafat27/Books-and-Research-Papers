@@ -15,7 +15,7 @@ The books and research papers in this repository cover a wide range of topics, i
 * Web Scraping
 * Psychology
 * Chess
-And more!
+& more!
 
 # Easy Access
 Each of the books and research papers is organized into folders, making it easy for you to find what you're looking for. Whether you're interested in learning about a specific topic or just looking for something new to read, this repository has you covered.
