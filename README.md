@@ -1,5 +1,7 @@
 ## 📚  Books and Research Papers
 ![Books](https://img.shields.io/badge/-Books-red?style=flat-square&logo=books)
+![ResearchPapers](https://img.shields.io/badge/-Research%20Papers-blue?style=flat-square&logo=research_papers)
+
 ![nick-fewings-f2Bi-VBs71M-unsplash](https://user-images.githubusercontent.com/99079792/216771414-e1323024-84e9-4789-b2d4-ebdae53387ed.jpg)
 Welcome to the Books and Research Papers repository, a collection of some of the best books and papers on various topics. This repository is designed to be a one-stop-shop for all your learning needs, providing you with easy access to a wealth of information.
 
