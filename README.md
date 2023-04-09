@@ -5,16 +5,16 @@
 ![nick-fewings-f2Bi-VBs71M-unsplash](https://user-images.githubusercontent.com/99079792/216771414-e1323024-84e9-4789-b2d4-ebdae53387ed.jpg)
 Welcome to the Books and Research Papers repository, a collection of some of the best books and papers on various topics. This repository is designed to be a one-stop-shop for all your learning needs, providing you with easy access to a wealth of information.
 
-# Topics Covered
+## ⚡ Topics Covered
 The books and research papers in this repository cover a wide range of topics, including:
 
-▪️ Computer Science
-▪️ Python Programming
-▪️ Machine Learning
-▪️ Deep Learning
-▪️ Web Scraping
-▪️ Psychology
-▪️ Chess
+* Computer Science
+* Python Programming
+* Machine Learning
+* Deep Learning
+* Web Scraping
+* Psychology
+* Chess
 And more!
 
 # Easy Access
