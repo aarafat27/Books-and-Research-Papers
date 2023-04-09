@@ -24,11 +24,11 @@ The books and research papers in this repository cover a wide range of topics, i
 * Chess
 & more!
 
-# Easy Access
+## 🔓 Easy Access
 Each of the books and research papers is organized into folders, making it easy for you to find what you're looking for. Whether you're interested in learning about a specific topic or just looking for something new to read, this repository has you covered.
 
-# Contributing
+## 🫶 Contributing
 We welcome contributions to this repository. If you have a book or paper that you'd like to share, simply make a pull request and we'll be happy to review and add it. Sharing knowledge is what this repository is all about!
 
-# License
+## 📮 License
 This repository is released under the MIT License, making it open and available for everyone to use. So dive in and start learning today!
