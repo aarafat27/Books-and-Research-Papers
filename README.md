@@ -6,6 +6,10 @@
 ![ComputerScience](https://img.shields.io/badge/-Computer%20Science-crimson?style=flat-square&logo=computerscience)
 ![PythonProgramming](https://img.shields.io/badge/-Python%20Programming-yellow?style=flat-square&logo=pythonprogramming)
 ![MachineLearning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square&logo=machinelearning)
+![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-teal?style=flat-square&logo=deeplearning)
+![WebScraping](https://img.shields.io/badge/-Web%20Scraping-turquoise?style=flat-square&logo=webscraping)
+![Psychology](https://img.shields.io/badge/-Psychology-pink?style=flat-square&logo=psychology)
+![Chess](https://img.shields.io/badge/-Chess-black?style=flat-square&logo=chess)
 
 
 
