@@ -9,7 +9,7 @@
 ![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-teal?style=flat-square&logo=deeplearning)
 ![WebScraping](https://img.shields.io/badge/-Web%20Scraping-turquoise?style=flat-square&logo=webscraping)
 ![Psychology](https://img.shields.io/badge/-Psychology-pink?style=flat-square&logo=psychology)
-![Chess](https://img.shields.io/badge/-Chess-black?style=flat-square&logo=chess)
+![Chess](https://img.shields.io/badge/-Chess-indigo?style=flat-square&logo=chess)
 
 
 
